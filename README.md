@@ -1,0 +1,2 @@
+# hack-kid
+get hack
